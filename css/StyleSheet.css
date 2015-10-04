@@ -181,7 +181,7 @@ body {
     width: 8rem;
     height: 100%;
     right: 0;
-    background-image: url(/css/assets/nav.png);
+    background-image: url(css/assets/nav.png);
     -webkit-filter: invert(1);
     background-position: 50% 50%;
 	
@@ -192,7 +192,7 @@ body {
 
 .edge{
 	background-color: #ff0000;
-	background-image: url(/css/assets/nav.svg);
+	background-image: url(css/assets/nav.svg);
     /*-webkit-filter: invert(1);*/
     background-position: 50% 50%;
 	
@@ -292,7 +292,7 @@ canvas {
     height: 80%;
     background-color: #ffffff;
     
-    background-image: url(/css/assets/loadingLight.gif);
+    background-image: url(css/assets/loadingLight.gif);
     background-size: 10%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -374,7 +374,7 @@ main {
 }
 
     main.loading {
-        background-image: url(/css/assets/w.gif);
+        background-image: url(css/assets/w.gif);
         background-repeat: no-repeat;
         background-position: center center;
     }
@@ -385,7 +385,7 @@ main {
 
 
     main.error {
-        background-image: url(/css/assets/error.gif);
+        background-image: url(css/assets/error.gif);
         background-repeat: no-repeat;
         background-position: center 45%;
     }
