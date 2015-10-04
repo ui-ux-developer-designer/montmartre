@@ -559,7 +559,7 @@ h2 {
 /*	border-bottom:1px solid red;*/
     display: flex;
     -ms-display: flex;
-    justify-content: center;
+    /*justify-content: center;*/
     align-items: center;
     text-align: center;
 }
